@@ -1,0 +1,6 @@
+data/grouped_by_minute.csv filter=lfs diff=lfs merge=lfs -text
+data/vtc_zone_freq.geojson filter=lfs diff=lfs merge=lfs -text
+data/YellowDataResize.csv filter=lfs diff=lfs merge=lfs -text
+data/YellowVTC_Zone_Freq.csv filter=lfs diff=lfs merge=lfs -text
+data/GreenDataResize.csv filter=lfs diff=lfs merge=lfs -text
+data/GreenVTC_Zone_Freq.csv filter=lfs diff=lfs merge=lfs -text
