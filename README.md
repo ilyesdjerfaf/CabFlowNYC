@@ -1,7 +1,7 @@
 
 # Taxi Data Visualization
 
-🚖 **Taxi Data Visualization** is an interactive Streamlit application designed for exploring and analyzing taxi pickup and dropoff data, along with temporal and spatial trends of taxi rides in New York City. The project leverages various visualization techniques including scatter plots, datashader maps, and choropleth maps to provide insightful views into taxi data.
+🚖 **Taxi Data Visualization** is an interactive Streamlit application designed for exploring and analyzing taxi pickup and dropoff data, along with temporal and spatial trends of taxi rides in New York City. The project leverages various visualization techniques, including scatter plots, datashader maps, and choropleth maps, to provide insightful views into taxi data.
 
 ---
 
@@ -44,12 +44,20 @@
 
 ---
 
-## 🚀 Installation
+## 🚀 Deployment
+
+This project is deployed on **Render**. You can access the live application using the following link:  
+**[Taxi Data Visualization on Render](https://cabflownyc.onrender.com/)**
+
+
+---
+
+## 🌟 Installation
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/taxi-data-visualization.git
-    cd taxi-data-visualization
+    git clone https://github.com/ilyesdjerfaf/CabFlowNYC.git
+    cd CabFlowNYC
     ```
 
 2. Install required Python dependencies:
@@ -68,6 +76,7 @@
 
 - **Taxi Data**: Processed CSV files for Green and Yellow taxis, including pickup and dropoff details.
 - **Spatial Data**: GeoJSON file for taxi zones and their frequencies.
+- **Images**: Three raw images of NYC Yellow vs Green Taxis
 
 ---
 
@@ -92,7 +101,7 @@
 
 ## 📜 License
 
-This project is not licensed yet
+This project is not licensed yet.
 
 ---
 
@@ -106,4 +115,7 @@ This project is not licensed yet
 
 ## 📬 Contact
 
-For any inquiries or suggestions, please contact [idjerfaf@gmail.com].
+For any inquiries or suggestions, please contact:
+
+- **Ilyes DJERFAF**: [idjerfaf@gmail.com]  
+- **Armand BIDAULD**: [armand.bidauld@etu-upsaclay.fr]
