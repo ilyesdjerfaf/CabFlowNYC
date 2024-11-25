@@ -92,7 +92,7 @@
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is not licensed yet
 
 ---
 
@@ -106,4 +106,4 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-For any inquiries or suggestions, please contact [your-email@example.com].
+For any inquiries or suggestions, please contact [idjerfaf@gmail.com].
