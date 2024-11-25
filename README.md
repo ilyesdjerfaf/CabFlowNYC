@@ -9,16 +9,29 @@
 
 1. **Interactive Maps**:
     - Pickup and dropoff locations for both Green and Yellow taxis visualized using datashader.
+
+    ![Temporal Analysis](src/first.png)
+
     - Scatter plots with adjustable layers for comparing taxi pickups and dropoffs.
+
+    ![Cmp ](src/second.png)
 
 2. **Choropleth Maps**:
     - Frequency of taxi rides by zones for both Green and Yellow taxis.
-    
+
+    ![Choropleth Maps](src/third.png)
+
+
 3. **Temporal Analysis**:
     - Average number of rides per hour for each day of the week displayed as a line chart.
 
+    ![Temporal Analysis](src/last.png)
+
 4. **Image Layer Adjustment**:
     - Blend and adjust opacity of image layers for detailed spatial analysis.
+
+    ![Images](src/images.png)
+
 
 ---
 
@@ -52,7 +65,7 @@ This project is deployed on **Render**. You can access the live application usin
 
 ---
 
-## 🌟 Installation
+## 🌟 Local Installation (preferable)
 
 1. Clone this repository:
     ```bash
@@ -117,5 +130,5 @@ This project is not licensed yet.
 
 For any inquiries or suggestions, please contact:
 
-- **Ilyes DJERFAF**: [idjerfaf@gmail.com]  
+- **Ilyes DJERFAF**: [ilyes.djerfaf@etu-upsaclay.fr]  
 - **Armand BIDAULD**: [armand.bidauld@etu-upsaclay.fr]
